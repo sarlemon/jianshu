@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/13518678-fffd311d21938026?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 2,
+      "title": "手绘",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/8364028-a4c7548d4d2a4325.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "人类起源于何处？多名宇航员出现可怕变化，暗指生命并非来自宇宙",
+      "desc": "无论是聪慧的古人，还是科学思想发达的今人。对人类如何起源，一直充满疑惑。探寻人类的起源，一直是一个充满哲学意义和生理意义的话题。上帝有三问：“第...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/16146799-d9a529289357724c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 2,
+      "title": "做人的最高境界：装傻",
+      "desc": "你骗了我，我仍然相信你， 这是智慧； 你为我捧场，我为你捧场， 这是好朋友； 今天说你笨，明天说你傻， 这是爱你的人； 经常批评你，又肯来帮你，...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/8364028-a4c7548d4d2a4325.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 3,
+      "title": "哈佛学霸高效学习法分享",
+      "desc": "李柘远LEO这位来自福建的小靓仔应该大家都知道了吧，本科在耶鲁读，之后高盛就职2年，现在在哈佛读MBA，很好奇同样都是九年义务教育，为什么他却那..",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/12036385-b98341a039c9b0e3.JPG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 4,
+      "title": "为什么程序员和设计师上班都喜欢戴耳机？",
+      "desc": "你身边有这样子的同事吗？除了早上打个招呼，整天不说话。喊他听不到，基本上都带着耳机，讨论任何话题不参与，神经兮兮的样子。 他们的脑洞是一般人无法...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/15776993-6d0615c62b330a06?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 5,
+      "title": "最美人间四月天，女建筑师林徽因罕见的9张照片！",
+      "desc": "说起民国的才女，林徽因是一个绕不开的人物，她不但集美貌与智慧并存，就连婚姻也很美满。林徽因漂亮，并且多才多艺。她在文学、绘画、建筑、舞台设计等...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/15705790-e0f2343a38cd4734.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 6,
+      "title": "“我做了十年HR， 发现升职快的人，都拥有这3种特质",
+      "desc": "这个时代“新陈代谢”是很快的。 有时候你会发现，你毕业的样子还近在眼前，一转眼冒上来的新人们都换了几茬。 而且每一茬都资质不错，来势汹汹。 “新...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/15631385-99ab656257796d63?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }],
+    "recommendList":[{
+      "id": 1,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+    },{
+      "id": 2,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id": 3,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    },{
+      "id": 4,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }]
+  }
+}
